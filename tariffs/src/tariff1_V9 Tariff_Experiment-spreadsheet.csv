@@ -1,0 +1,28 @@
+BehaviorSpace results (NetLogo 6.4.0),Table version 2.0,,
+tariff1_V9.nlogo,,,
+Tariff_Experiment,,,
+11/29/2024 11:58:12:777 -0600,,,
+min-pxcor,max-pxcor,min-pycor,max-pycor
+-100,100,-80,80
+[run number],US_tariff_slider_percent,[step],dollars_domestic_sales_in_US / (dollars_domestic_sales_in_US + dollars_foreign_sales_in_US)
+9,40,21,1
+6,25,21,0.981434036
+2,5,21,0.943232063
+8,35,21,0.990305559
+4,15,21,0.944212142
+5,20,21,0.977969832
+7,30,21,0.995463189
+3,10,21,0.937209261
+1,0,22,0.922834238
+18,85,21,1
+12,55,21,1
+10,45,22,1
+11,50,21,1
+14,65,21,1
+15,70,21,1
+16,75,22,1
+13,60,22,1
+17,80,22,1
+20,95,21,1
+21,100,22,1
+19,90,22,1

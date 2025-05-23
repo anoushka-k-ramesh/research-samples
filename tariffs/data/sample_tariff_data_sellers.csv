@@ -1,0 +1,3 @@
+region,seller-type,available-inventory,min-price,max-price,Tariff,x,y
+USA,Tier 2,10,20000,25000,2000,-17,0
+ROW,Tier 2,10,20000,25000,2000,-2,0
